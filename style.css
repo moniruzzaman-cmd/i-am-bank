@@ -1,0 +1,51 @@
+body{
+    padding: 100px;
+
+}
+.submit-area {
+    margin-top: 50px;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+
+
+}
+#dashbord{
+    display: none;
+}
+.Deposit{
+    background-color: slateblue;
+
+}
+.Withdrow{
+    background-color: salmon;
+
+}
+.Balance{
+    background-color: orange;
+}
+.dashbordTop{
+    color: white;
+    padding: 25px;
+    padding-left: 60px;
+    border-radius: 10px;
+   
+ 
+}
+.dashbordTop h2{
+    font-size: 40px;
+    
+}
+.submit-area h4{
+    font-weight: bold;
+    padding: 10px;
+}
+#invalid{
+  display: none;
+  width: 100%;
+  
+}
+.invaliad-text{
+    text-align: center;
+
+}
